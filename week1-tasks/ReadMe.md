@@ -136,6 +136,5 @@ For Example:
 * [How to Host a Website on S3 Without Getting Lost in the Sear](https://medium.freecodecamp.org/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38)
 * [Setup AWS S3 static website hosting using SSL](https://medium.com/@sbuckpesch/setup-aws-s3-static-website-hosting-using-ssl-acm-34d41d32e394)
 
-## Authors
-
-* **Sami Abdul**
+## Authos
+"LAKHAN AMLEY"
